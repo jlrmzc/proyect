@@ -1,0 +1,118 @@
+<html>
+
+<head>
+<title>MI PRIMERA PAGINA</title>
+
+</head>
+<link rel="stylesheet" type="text/css" href="css/hojasdeestilo.css">
+
+<center><b>Programador</b> :jose luis rmz castillo <b>Numero</b> 99838723 <b>correo electronico</b>kologh123@hotmail.com</center>
+
+
+<body>
+
+<div id="capa" style="position: absolute; width:1565px; height: 60px; background-color: #0580C2;"><center><h2>Que es un sketch, wireframe, mackup y prototipo</center> </div>
+<br><br><br>
+
+
+<center><a href="#miancla">sketch</a>
+<a href="#wireframes">wireframes</a>
+<a href="#mockup">mockup</a>
+<a href="#prototipo">prototipo</a></center>
+<br><br><br><br>
+
+<a name="miancla"></p></a>
+<fieldset class="field_set">
+<legend><b>¿Que es un sketch?</b></legend>
+<p align="justify">Un sketch es una escena, generalmente humorística, que dura entre uno y diez minutos aproximadamente. En ella participan actores o comediantes y puede ser montada en un teatro o difundida por televisión e Internet.
+Los sketches, que solían usarse en los vodeviles, han sido incorporados a espectáculos de variedades, programas cómicos, entretenimiento para adultos, talk shows y algunos shows infantiles, como Plaza Sésamo.
+A menudo, el sketch es improvisado por los actores la primera vez que se realiza y el resultado de esto es posteriormente transcrito a modo de libreto. No obstante, la improvisación no se practica necesariamete en todas las ocasiones.
+Los sketches tienen su origen en los vodeviles y en los music halls, donde un gran número de breves, pero hilarantes actos eran exhibidos uno tras otro para formar un programa mayor. En Inglaterra, las escenas pasaron del escenario a las radioemisoras y de éstas a la televisión.
+Históricamente, los sketches no estaban relacionados entre sí, pero más recientemente se ha impuesto la moda de reunir todos los actos bajo un mismo tema, con personajes recurrentes que aparecen más de una vez. Esta idea fue tomada del cuarteto británico The League of Gentlemen, cuyos sketches narran las historias de los habitantes del pueblo fiticio de Royston Vasey.
+En Norteamérica, los sketches contemporáneos son la consecuencia de las improvisaciones de los años 1970. Por el contrario, los actos británicos han sido desarrollados mayoritariamente gracias a la escritura, con autores que, a menudo, trabajan en parejas.
+Algunos grupos contemporáneos que realizan notables sketches sobre escenarios son The Second City, los Upright Citizens Brigade y The Groundlings. Los programas de televisión que más se destacan con sus breves escenas cómicas son Saturday Night Live, Mad TV y In Living Color, entre otros.
+Una de las últimas tendencias de la comedia con sketches es distribuirla a través de Internet. Las escenas creadas por aficionados y profesionales son vistas por millones de personas en sitios web como YouTube, Super Deluxe y iFilm.</p>
+<center><img src="images/sketch.jpg" align="center" border="2" title="Sketch" width="400" height="200"></center>
+</fieldset>
+
+<br><br><br><br>
+<a name="wireframes"></a>
+<fieldset class="field_set">
+<legend><b>¿Que es un wireframe?</b></legend>
+<p align="justify">¿Qué es un Wireframe?
+Un wireframe o prototipo no es más que un boceto donde se representa visualmente, de una forma muy sencilla y esquemática la estructura de una página web.
+El objetivo de estos es definir el contenido y la posición de los diversos bloques de tu web. Esto incluye menús de navegación, bloques de contenido, etc… Además, te permite como interactuarán estos elementos entre sí.
+En los wireframes no se utilizan ni colores, ni tipografías ni cualquier elemento gráfico. Lo importante es centrarse en la funcionalidad del sitio y la experiencia del usuario. La prioridad son los contenidos de la web.
+Al ser representaciones tan simples, te permiten crear múltiples versiones de un mismo proyecto de una forma rápida, así como aplicar cambios o nuevas ideas que aparezcan a posteriori. Lo importante es tener clara la estructura de la web o aplicación antes de empezar con el HTML y el CSS para comprobar que no haya fallos importantes de base que luego te podrían suponer muchas horas de trabajo subsanar.
+<center><img src="images/wireframe.jpg" align="center" border="2" title="wireframe" width="400" height="200"></center>
+</fieldset>
+
+<br><br><br><br>
+<a name="mockup"></a>
+<fieldset class="field_set">
+<legend><b>¿Que es un mockup?</b></legend>
+<p align="justify">En la manufactura y diseño, un mockup, mock-up, o maqueta es un modelo a escala o tamaño real de un diseño o un dispositivo, utilizado para la demostración, evaluación del diseño, promoción, y para otros fines. Un mockup es un prototipo si proporciona al menos una parte de la funcionalidad de un sistema y permite pruebas del diseño.1 Los mockups son utilizados por los diseñadores principalmente para la adquisición de comentarios por parte de los usuarios. Los mock-ups abordan la idea capturada en la ingeniería popular: «Usted puede arreglarlo ahora en el dibujo con una goma de borrar o más tarde en la obra con un martillo.
+<center><img src="images/mockup.jpg" align="center" border="2" title="mockup" width="400" height="200"></center>
+</fieldset>
+
+<br><br><br><br>
+<fieldset class="field_set">
+<a name="prototipo"></a>
+<legend><b>¿Que es un prototiopo?</b></legend>
+<p align="justify">Un Prototipo es un objeto que sirve como referencia para futuros modelos en una misma cadena de producción. Un Prototipo es el primer dispositivo que se fabrica y del que se toman las ideas más relevantes para la construcción de otros diseños y representa todas las ideas en cuanto a diseño, soporte y tecnologia que se les puedan ocurrir a sus creadores. Por lo general un prototipo no sale a la venta a menos que sea menos que sea un terminal orientado para que otros desarrolladores de tecnologia trabajen con él para insertar nuevas funciones o especificaciones a este para que funcione de una manera más eficiente. Ejemplo de estos dispositivos, los nuevos smartphones que previamente pueden adquirir las empresas o particulares que desarrollan aplicaciones. Los necesitan para así tener un campo en el que trabajar.
+La realización de un prototipo de un automóvil por ejemplo cuesta millones de dólares, incorporan muchas novedades y curvas muy pronunciadas, al punto de parecer futuristas o demasiado revolucionarias. Estas especificaciones no serán las que salgan al público, sólo algunas parecidas y las formas serán un poco más comerciales para adaptarse a la verdadera demanda del mercado. Los prototipos de automóviles y muchos aparatos electrónicos son los elementos perfectos para presentar nuevas tecnologías y características que las compañías inventan. Son por lo general expuestos en salones de presentaciones, exposiciones y eventos corporativos en los que sus dueños demuestran el verdadero potencial que tienen.
+En la Fábrica, el prototipo es como un lienzo para técnicos y diseñadores, quienes prueban en el los avances que realizan en su construcción. Tiene nombres en clave que por lo general no son con los que sale al mercado y sirve también como medida de seguridad para aquellos periodistas que filtran información de estos.
+El término Prototipo ha sido acuñado en diversos campos de la vida en general, ejemplo en el de la belleza. En un certamen de reinas, la mujer más hermosa es la ganadora, representado el prototipo ideal, el ejemplo perfecto de cómo debe ser una mujer hermosa. En la cocina, cuando un chef define cuales son los procedimientos, cantidades y calidades de los ingredientes que se aplican en una receta, está construyendo un prototipo culinario que al ser usado por alguien más solo está haciendo su propia versión, no una idéntica a la del cocinero que la ideo.
+<center><img src="images/prototipo.jpg" align="center" border="2" title="prototipo" width="400" height="200"></center>
+</fieldset>
+
+<br><br><br>
+<table width="500" border="0" align="center" height="200">
+<form name="fomr1" action="" method="">
+<tr>
+	<td> <label class="label">Nombre :</label></td>
+	<td><input type="text" name="Nombre" size="30"></input></td>
+</tr>
+<tr>
+	<td> <label class="label">CorreoElectronico :</label></td>
+	<td><input type="text" name="Correo" size="30"></input></td>
+</tr>
+<td> <label class="label">Contraseña :</label></td>
+	<td><input type="text" name="Contraseña" size="30"></input></td>
+<tr>
+	<td><label class="label">Comentarios :</label></td>
+	<td><textarea name="Comentarios" rows="10" cols="50">
+	 Escribe aqui tus comentarios........
+	</textarea></td>
+</tr>
+<tr>
+	<td><input class="boton" type="submit" name="publicar" value="publicar"></input></td>
+</tr>
+</form>
+</table>
+<b>comentarios</b>
+<div id="capa" style="position: absolute; width:600px; height: 120px; background-color: #52BDF6; border: 12px"><center><h4>Luis Daniel en 8 noviembre, 2016 en 2:50 pm dijo:
+<br>
+Muy buena entrada me sirvió bien como guía, felicitaciones.
+<br>
+Me gusta
+
+</center> </div>
+<br><br><br><br><br><br><br><br><br>
+<div id="capa" style="position: absolute; width:600px; height: 120px; background-color: #52BDF6; border: 12px"><center><h4>Marco Antonio en 27 febrero, 2016 en 8:10 pm dijo:
+<br>
+siento que le falta algun complemento a las definiciones.
+<br>
+Me gusta
+
+</center> </div>
+<br><br><br><br><br><br><br><br><br>
+<div id="capa" style="position: absolute; width:600px; height: 120px; background-color: #52BDF6; border: 12px"><center><h4>maria Saucedo en 12 julio, 2016 en 6:25 pm dijo:
+<br>
+no entendi bien las definiciones.
+<br>
+Me gusta
+
+</center> </div>
+</body>
+</html>
